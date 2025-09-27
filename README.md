@@ -14,7 +14,7 @@
 - 👯 I’m looking to collaborate on **Full-Stack Projects**  
 - 💬 Ask me about **MERN Stack Development**  
 - 📫 Reach me at: **nirmalsugandhi69@gmail.com**  
-- ⚡ Fun fact: I have a great passion for singing 🎶**  
+- ⚡ Fun fact: I have a **great passion for singing 🎶**  
 
 ---
 
